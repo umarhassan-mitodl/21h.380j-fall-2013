@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "legacy_uid": "c1532266-34be-ac25-b6a1-434c3f1ff229",
+  "instructors": {
+    "content": [
+      "c03f2fc6-bc6a-e647-a7b1-3baa451f2a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "73cef401-141a-5e31-c1e0-87e736c9172f",
+    "website": "21h-380j-people-and-other-animals-fall-2013"
+  },
+  "course_title": "People and Other Animals",
+  "course_description": "This course is a historical exploration of the ways that people have interacted with their closest animal relatives, for example: hunting, domestication of livestock, exploitation of animal labor, scientific study of animals, display of exotic and performing animals, and pet-keeping. Themes include changing ideas about animal agency and intelligence, our moral obligations to animals, and the limits imposed on the use of animals. Students taking the graduate version complete additional assignments.\n",
+  "department_numbers": [
+    "21H",
+    "21A"
+  ],
+  "extra_course_numbers": "21A.419J,21H.980J,21A.411J",
+  "primary_course_number": "21H.380J",
+  "course_image_thumbnail": {
+    "content": "d56ca173-1194-e1e0-aa73-f833d292fefb",
+    "website": "21h-380j-people-and-other-animals-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "48645a28-5003-4831-b66c-49e7dca310a2",
+  "site_short_id": "21h.380j-fall-2013",
+  "site_url_path": "courses/21h-380j-people-and-other-animals-fall-2013",
+  "title": "Course Metadata"
+}

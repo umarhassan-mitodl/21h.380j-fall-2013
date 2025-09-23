@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 9a027a13-7248-0c43-0b6f-475ee9b59883
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 9bf9b92f-1f78-2ed7-d94a-6f2cb757ccc6
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 580183fd-2a52-0727-5d9e-b486ee17fabe
+  name: Things to Think About
+  pageRef: /pages/things-to-think-about
+  weight: 30
+- identifier: eb3c97a2-6ed7-5521-db85-22c9d3c28160
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
