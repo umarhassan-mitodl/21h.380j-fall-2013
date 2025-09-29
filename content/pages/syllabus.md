@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, readings, assignments, grading, things to remember,
   and the schedule of course topics and key dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -90,7 +92,7 @@ Participation (including response papers)
 Things to Remember
 ------------------
 
-Written assignments should represent original and individual work. For a detailed discussion of what this means, see the "{{% resource_link "a5a2ea1d-e29f-444e-96a2-f95c787ce7e7" "Academic Integrity at MIT" %}}" handbook. 
+Written assignments should represent original and individual work. For a detailed discussion of what this means, see the "[Academic Integrity at MIT](http://web.mit.edu/academicintegrity/)" handbook. 
 
 Assignments are to be handed in on time. If an extension becomes necessary it should be requested ahead of the due date. Otherwise, lateness will be penalized.
 

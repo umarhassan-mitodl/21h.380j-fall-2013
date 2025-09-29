@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides descriptions of the weekly response papers and
   research paper required for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,4 +30,4 @@ Oral progress report to class due
 
 Session 15 — Final papers and presentations
 
-Resources for writing an annotated bibliography are available from the {{% resource_link "594550d4-0773-425f-8eba-383d2f1a23e8" "Williams College Libraries" %}}.
+Resources for writing an annotated bibliography are available from the [Williams College Libraries](http://library.williams.edu/citing/annotated-bibliography.php).
