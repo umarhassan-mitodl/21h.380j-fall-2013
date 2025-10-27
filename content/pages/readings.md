@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of readings by session and information
   on course textbooks.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -15,13 +13,13 @@ Several of the readings have associated question sets to think about for class d
 
 \[Capek\] = Capek, Karl. _War With the Newts_. Catbird Press, 1990.
 
-\[Franklin\] = Franklin, Sarah. _Dolly Mixtures: The Remaking of a Genealogy_. Duke University Press, 2007. ISBN: 9780822339205. \[Preview with [Google Books](http://books.google.com/books?id=DK-4KjlKB34C&pg=PAfrontcover)\]
+\[Franklin\] = Franklin, Sarah. _Dolly Mixtures: The Remaking of a Genealogy_. Duke University Press, 2007. ISBN: 9780822339205. \[Preview with {{% resource_link "14076def-7b8c-4e26-9798-745bf51eb223" "Google Books" %}}\]
 
-\[Ritvo\] = Ritvo, Harriet. _The Animal Estate: The english and Other Creatures in the Victorian Age_. Harvard University Press, 1989. ISBN: 9780674037076. \[Preview with [Google Books](http://books.google.com/books?id=zjpbtAkHNwQC&pg=PAfrontcover)\]
+\[Ritvo\] = Ritvo, Harriet. _The Animal Estate: The english and Other Creatures in the Victorian Age_. Harvard University Press, 1989. ISBN: 9780674037076. \[Preview with {{% resource_link "b1431e84-e785-4a23-9ead-658511458d80" "Google Books" %}}\]
 
 \[Sewell\] = Sewell, Anna. _Black Beauty (Signet Classics)_. Signet Press, 2011. ISBN: 9780451531742.
 
-\[Vialles\] = Vialles, Noelie. _Animal to Edible_. Cambridge University Press, 1994. ISBN: 9780521466721. \[Preview with [Google Books](http://books.google.com/books?id=l10bk262Y3YC&pg=PAfrontcover)\]
+\[Vialles\] = Vialles, Noelie. _Animal to Edible_. Cambridge University Press, 1994. ISBN: 9780521466721. \[Preview with {{% resource_link "ca30a3f3-6a9e-4d22-95de-d735d9881437" "Google Books" %}}\]
 
 \[Wells\] = Wells, H. G. _The Island of Doctor Moreau_. Penguin Classics, 2005. ISBN: 9780141441023.
 
@@ -68,9 +66,9 @@ Hunting
 Corbett, Jim. "Introduction," and Chapter 1 in _Man-Eaters of Kumaon_. Oxford University Press, 1993.
 
 Orwell, George. "Shooting an Elephant." In _Inside the Whale and Other Essays_. Penguin, 1969. ISBN: 9780140011852.  
-An audio version is available at: [http://www.theseanachai.com/2009/01/30/shooting-an-elephant/](http://www.theseanachai.com/2009/01/30/shooting-an-elephant)
+An audio version is available at: {{% resource_link "990c85ea-4f2e-4352-abd8-a3142c23bc84" "http://www.theseanachai.com/2009/01/30/shooting-an-elephant/" %}}
 
-Carruthers, Jane. "'[Wilding the Farm or Farming the Wild?' The Evolution of Scientific Game Reaching in South Africa from the 1960s to the Present](http://dx.doi.org/10.1080/00359190809519220)." _Transactions of the Royal Society of South Africa_ 63, no. 2 (2008): 160–81.
+Carruthers, Jane. "'{{% resource_link "c25357fd-7280-4933-84f5-4aaa9e6b4e7f" "Wilding the Farm or Farming the Wild?' The Evolution of Scientific Game Reaching in South Africa from the 1960s to the Present" %}}." _Transactions of the Royal Society of South Africa_ 63, no. 2 (2008): 160–81.
 
 Cioc, Mark. "Introduction," Chapter 1, and Appendix A in _The Game of Conservation: International Treaties to Protect the World's Migratory Animals._ Ohio University Press, 2009. ISBN: 9780821418673.
 
@@ -94,9 +92,9 @@ Domestication and Breeding
 
 Coppinger, Raymond, and Lorna Coppinger. Chapter 1 in _Dogs: A New Understanding of Canine Origin, Behavior, & Evolution_. University of Chicago Press, 2002. ISBN: 9780226115634.
 
-Orlans, Barbara. ["Turbo-Cows: Producing a Competitive Animal in the Nineteenth and Early Twentieth Centuries." (PDF)](https://www.academia.edu/14032108/Turbo_Cows_Producing_a_Competitive_Animal_in_the_Nineteenth_and_Early_Twentieth_Century) _Industrializing Organisms: Introducing Evolutionary History: Routledge_, 2003.
+Orlans, Barbara. {{% resource_link "1f735187-43d1-443c-86bb-2e25b96ea9cd" "\"Turbo-Cows: Producing a Competitive Animal in the Nineteenth and Early Twentieth Centuries.\" (PDF)" %}} _Industrializing Organisms: Introducing Evolutionary History: Routledge_, 2003.
 
-Levy, Ariel. "[Living-Room Leopards](http://www.newyorker.com/reporting/2013/05/06/130506fa_fact_levy)." _The New Yorker_, May 6, 2013.
+Levy, Ariel. "{{% resource_link "242f45b2-9c1a-41b0-833e-0cabea5a9f25" "Living-Room Leopards" %}}." _The New Yorker_, May 6, 2013.
 
 \[Franklin\] Chapters 2, and 3.
 
@@ -136,7 +134,7 @@ Pets
 
 \[Ritvo\] Chapter 2.
 
-Hearne, Vicki. "How to Say 'Fetch.'" Chapter 3 in _Adam's Task: Calling Animals By Name_. Skyhorse Publishing, 2007. ISBN: 9781602390027. \[Preview with [Google Books](http://books.google.com/books?id=BPd7072qIdcC&pg=PAcontents=onepage)\]
+Hearne, Vicki. "How to Say 'Fetch.'" Chapter 3 in _Adam's Task: Calling Animals By Name_. Skyhorse Publishing, 2007. ISBN: 9781602390027. \[Preview with {{% resource_link "717b4e8b-7822-42b9-be6c-866faf29c01d" "Google Books" %}}\]
 
 Lorenz, Konrad. Chapters 4, 6, and 17 in _Man Meets Dog_. Routledge, 2002. ISBN: 9780415267458.
 
@@ -206,9 +204,9 @@ Animals and Invasion
 
 Cronon, William. Chapters 2 and 5 in _Changes in the Land: Indians, Colonists, and the Ecology of New England_. Hill & Wang Inc., U. S., 2003. ISBN: 9780809016341.
 
-Anderson, Virginia DeJohn. Chapter 4 in _Creatures of Empire: How Domestic Animals Transformed Early America._ Oxford University Press, 2006. ISBN: 9780195304466. \[Preview with [Google Books](http://books.google.com/books?id=FE2N0aUh0TQC&pg=PA107=onepage)\]
+Anderson, Virginia DeJohn. Chapter 4 in _Creatures of Empire: How Domestic Animals Transformed Early America._ Oxford University Press, 2006. ISBN: 9780195304466. \[Preview with {{% resource_link "1e0764da-b5b2-4c3c-a80f-4f8a8b24193d" "Google Books" %}}\]
 
-Ritvo, Harriet. "Counting Sheep in the English Lake District: Rare Breeds, Local Knowledge, and Environmental History." In _Beastly Natures: Animals, Humans, and the Study of History_. Edited by Dorothee Brantz. University of Virginia Press, 2010, pp. 264–79. ISBN: 9780813929477. \[Preview with [Google Books](http://books.google.com/books?id=zdGPZ41NPEIC&pg=PA264=onepage)\]
+Ritvo, Harriet. "Counting Sheep in the English Lake District: Rare Breeds, Local Knowledge, and Environmental History." In _Beastly Natures: Animals, Humans, and the Study of History_. Edited by Dorothee Brantz. University of Virginia Press, 2010, pp. 264–79. ISBN: 9780813929477. \[Preview with {{% resource_link "fcdce486-f1d8-4c59-8689-92e1bee491e3" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -226,13 +224,13 @@ Animals and Infection
 
 \[Ritvo\] Chapter 4.
 
-Ritvo, Harriet. "[Mad Cow Mysteries](http://www.jstor.org/stable/41213533)." _American Scholar_ 67, no. 2 (1998).
+Ritvo, Harriet. "{{% resource_link "14fd1b88-91c1-4389-91f3-7bf4af3753df" "Mad Cow Mysteries" %}}." _American Scholar_ 67, no. 2 (1998).
 
 \[Franklin\] Chapter 5.
 
 Weiss, R. A. "Animal Origins of Human Infectious Disease." _Philosophical Transactions: Biological Sciences_ 356, no. 1410 (2001): 957–77.
 
-McNeill, John R. "Revolutionary Mosquitoes of the AtlanticWorld : Malaria and Independence in the United States of America." In _Natures Past: The Environment and Human History_. University of Michigan Press, 2007, pp. 145–71. ISBN: 9780472069606. \[Preview with [Google Books](http://books.google.com/books?id=UBUeNI7dMk8C&pg=PA145=onepage)\]
+McNeill, John R. "Revolutionary Mosquitoes of the AtlanticWorld : Malaria and Independence in the United States of America." In _Natures Past: The Environment and Human History_. University of Michigan Press, 2007, pp. 145–71. ISBN: 9780472069606. \[Preview with {{% resource_link "1f9d78ed-3b2b-4855-8824-927147d89ffd" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -270,7 +268,7 @@ Dead Animals on Display
 
 \[Ritvo\] Introduction.
 
-Haraway, Donna. "[Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936](http://www.jstor.org/stable/466593)." _Social Text_ 11 (1984): 20–64.
+Haraway, Donna. "{{% resource_link "a8fbe36e-b9c5-4f1d-ae81-bace344402f4" "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden, New York City, 1908–1936" %}}." _Social Text_ 11 (1984): 20–64.
 
 Alberti, Samuel. "Introduction: The Dead Ark." In _The Afterlives of Animals: A Museum Menagerie_. University of Virginia Press, 2013, pp. 1–16. ISBN: 9780813933900.
 

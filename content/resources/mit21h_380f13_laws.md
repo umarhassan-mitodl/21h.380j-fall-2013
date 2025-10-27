@@ -4,8 +4,6 @@ description: This resource file is regarding colonial animal protection laws, 18
 file: /courses/21h-380j-people-and-other-animals-fall-2013/1fd82bd63bece5cd67b208401012f180_MIT21H_380F13_laws.pdf
 file_size: 1518380
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
